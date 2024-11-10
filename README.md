@@ -12,8 +12,8 @@
     
   **Print-out Output:**
   Output is generated as follows: 
-    1. Created new columns for analyzing results
-    2. Conditional formatting to highlight positive and negative *Quarterly and Percentage* changes 
+  1. Created new columns for analyzing results
+  2. Conditional formatting to highlight positive and negative *Quarterly and Percentage* changes 
 
   **Stats:**
   The following stats were produced for stock analysis:
