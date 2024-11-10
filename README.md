@@ -11,8 +11,7 @@
   3. Sum total stock volume
     
   **Print-out Output:**
-  Output is generated as follows:
-  
+  Output is generated as follows: 
     1. Created new columns for analyzing results
     2. Conditional formatting to highlight positive and negative *Quarterly and Percentage* changes 
 
